@@ -1,24 +1,36 @@
-# Sherzod Juraev
+# Hi, I'm Sherzod 👋
 
-### BSc Student, Applied Mathematics — [National University of Uzbekistan (NUUz)](https://nuu.uz/en/)
+I'm a BSc student in Applied Mathematics at the
+[National University of Uzbekistan (NUUz)](https://nuu.uz/en/).
+
+I learn machine learning and computer science by building things from scratch,
+instead of starting from ready-made libraries. Writing everything myself is slower,
+but it is the way I actually understand how things work. I write in public, so
+mistakes included: I fix them and keep learning.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sherzod-juraev)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sherzod-juraev)
 
-I learn machine learning and computer science by implementing things
-from scratch, rather than starting from existing libraries.
+## What I'm working on
 
-## Projects
+These are personal learning projects. I'm not looking for contributors, but you are
+welcome to read, use or fork them.
 
-[![pydsa](https://img.shields.io/badge/pydsa-DSA_from_scratch-4B8BBE?style=for-the-badge&logo=python&logoColor=white)](https://github.com/sherzod-juraev/pydsa)
-Data structures and algorithms implemented from scratch in Python.
-
-[![pyml](https://img.shields.io/badge/pyml-ML_from_scratch-306998?style=for-the-badge&logo=python&logoColor=white)](https://github.com/sherzod-juraev/pyml)
-Classical machine learning algorithms built with NumPy.
-[Docs →](https://pyml-edu.readthedocs.io)
+- **[pydsa](https://github.com/sherzod-juraev/pydsa)**: data structures and algorithms
+  in pure Python, fully typed, zero dependencies. [Docs →](PYDSA_DOCS_URL)
+- **[pyml](https://github.com/sherzod-juraev/pyml)**: classical machine learning
+  algorithms built with NumPy. [Docs →](https://pyml-edu.readthedocs.io)
+- **[pyml-datasets](https://github.com/sherzod-juraev/pyml-datasets)**: classic datasets
+  as `.npz` files for pyml. Only CC0 / CC BY data, each with its license and citation.
+  [Docs →](https://pyml-datasets.readthedocs.io)
 
 ## Stack
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
 [![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)](https://scipy.org/)
+
+Tools I use to keep the code honest: pytest, ruff, mypy (strict), Nox and GitHub Actions.
+
+## Contact
+
+📧 juraevsherzod9943@gmail.com
