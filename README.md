@@ -16,7 +16,7 @@ These are personal learning projects. I'm not looking for contributors, but you 
 welcome to read, use or fork them.
 
 - **[pydsa](https://github.com/sherzod-juraev/pydsa)**: data structures and algorithms
-  in pure Python, fully typed, zero dependencies. [Docs →](PYDSA_DOCS_URL)
+  in pure Python, fully typed, zero dependencies. [Docs →](https://pydsa-edu.readthedocs.io)
 - **[pyml](https://github.com/sherzod-juraev/pyml)**: classical machine learning
   algorithms built with NumPy. [Docs →](https://pyml-edu.readthedocs.io)
 - **[pyml-datasets](https://github.com/sherzod-juraev/pyml-datasets)**: classic datasets
