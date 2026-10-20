@@ -1,7 +1,7 @@
 # Hi, I'm Sherzod 👋
 
-I'm a BSc student in Applied Mathematics at the
-[National University of Uzbekistan (NUUz)](https://nuu.uz/en/).
+I'm a BSc student in Artificial Intelligence at the [National University of Uzbekistan (NUUz)](https://nuu.uz/en/),
+Faculty of Applied Mathematics and Intelligent Technologies.
 
 I learn machine learning and computer science by building things from scratch,
 instead of starting from ready-made libraries. Writing everything myself is slower,
@@ -18,7 +18,7 @@ welcome to read, use or fork them.
 - **[pydsa](https://github.com/sherzod-juraev/pydsa)**: data structures and algorithms
   in pure Python, fully typed, zero dependencies. [Docs →](https://pydsa-edu.readthedocs.io)
 - **[pyml](https://github.com/sherzod-juraev/pyml)**: classical machine learning
-  algorithms built with NumPy. [Docs →](https://pyml-edu.readthedocs.io)
+  algorithms built with NumPy and SciPy. [Docs →](https://pyml-edu.readthedocs.io)
 - **[pyml-datasets](https://github.com/sherzod-juraev/pyml-datasets)**: classic datasets
   as `.npz` files for pyml. Only CC0 / CC BY data, each with its license and citation.
   [Docs →](https://pyml-datasets.readthedocs.io)
